@@ -77,5 +77,5 @@ def main():
  
 if __name__ == "__main__":
     main()
-    # python SplitCombine.py --frame_dir F:/SJTU_VideoAnalysis/frames --input_video F:/SJTU_VideoAnalysis/Input/demo.avi --v2i True
-    # python SplitCombine.py --frame_dir F:/SJTU_VideoAnalysis/frames --output_video F:/SJTU_VideoAnalysis/demo_output.avi --i2v True
+    # python SplitCombine.py --frame_dir F:/SJTU_VideoAnalysis/frames --input_video F:/SJTU_VideoAnalysis/input_video/demo.avi --v2i True
+    # python SplitCombine.py --frame_dir F:/SJTU_VideoAnalysis/output_frames --output_video F:/SJTU_VideoAnalysis/output_video/demo_output.avi --i2v True

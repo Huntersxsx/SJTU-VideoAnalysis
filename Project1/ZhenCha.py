@@ -2,7 +2,7 @@ import cv2
 import numpy as np
  
  
-cap = cv2.VideoCapture("F:/PETS2006/black.avi")
+cap = cv2.VideoCapture("F:/SJTU_VideoAnalysis/Project1/Input/demo.avi")
 # Check if camera opened successfully
 if (cap.isOpened()== False): 
   print("Error opening video stream or file")
