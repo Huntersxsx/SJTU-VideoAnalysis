@@ -9,10 +9,12 @@
 python ZhenCha.py
 ```
 
-帧差法实现效果 (某一帧)，完整视频见PPT
+帧差法实现效果 (某一帧)，完整视频见PPT  
+
 ![](https://github.com/Huntersxsx/SJTU-VideoAnalysis/blob/master/Project1/img/zhencha3.png)
 
-中值滤波实现效果 (某一帧)，完整视频见PPT
+中值滤波实现效果 (某一帧)，完整视频见PPT  
+
 ![](https://github.com/Huntersxsx/SJTU-VideoAnalysis/blob/master/Project1/img/zhongzhi3.png)
 
 ### 高斯混合模型
@@ -23,7 +25,8 @@ python ZhenCha.py
 python GMM.py
 ```
 
-GMM实现效果 (某一帧)，完整视频见PPT
+GMM实现效果 (某一帧)，完整视频见PPT  
+
 ![](https://github.com/Huntersxsx/SJTU-VideoAnalysis/blob/master/Project1/img/GMM3.png)
 
 ## 目标检测  
